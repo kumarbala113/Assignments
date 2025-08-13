@@ -1,0 +1,10 @@
+S/N	Criterion	Splitter	r2	Copy+Paste
+1	squared_error	best		0.90	criterion='squared_error',splitter='best'
+*2	squared_error	random		0.92	criterion='squared_error',splitter='random'
+3	friedman_mse	best		0.91	criterion='friedman_mse',splitter='best'
+4	friedman_mse	random		0.90	criterion='friedman_mse',splitter='random'
+5	absolute_error	best		0.90	criterion='absolute_error',splitter='best'
+6	absolute_error	random		0.89	criterion='absolute_error',splitter='random'
+7	poisson	best		0.91	criterion='poisson',splitter='best'
+8	poisson	random		0.89	criterion='poisson',splitter='random'
+
